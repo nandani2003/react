@@ -1,0 +1,11 @@
+.Myitem{
+  background-color: rgb(230, 229, 221);
+}
+.Myspan{
+  font-weight: 500;
+  color: orangered;
+}
+.button{
+  background-color: brown;
+  float: right;
+}
